@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage      = "https://github.com/yohe-io/yohe-sdk-ios"
   s.license       = "Apache License, Version 2.0"
   s.author        = { "Team SDK" => "yohe.io" }
-  s.platform      = :ios, "12.0"
+  s.platform      = :ios, "13.0"
   s.swift_version = "5.7"
   s.source        = { :git => "https://github.com/yohe-io/yohe-sdk-ios.git", :tag => "v1.0.0" }
   s.ios.vendored_frameworks = 'YoHeSDK.xcframework'
